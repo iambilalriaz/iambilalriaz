@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate software engineer with 3+ years of experience in the most popular technologies like JavaScript, React.js, Next.js, Node.js, Express.js, Tailwind CSS, etc. I've expertise in front-end development, responsive web design, and pixel-perfection UIs.🥳<br><br>I challenge myself every day to be better and better in development, management, and leadership. I believe in putting all efforts into work and strong commitment which benefits me to deliver better within certain timelines.🤓
+I'm a passionate software engineer with around 5 years of experience in the most popular technologies like JavaScript, React.js, Next.js, Node.js, Express.js, Tailwind CSS, etc. I've expertise in front-end development, responsive web design, and pixel-perfection UIs.🥳<br><br>I challenge myself every day to be better and better in development, management, and leadership. I believe in putting all efforts into work and strong commitment which benefits me to deliver better within certain timelines.🤓
 
 
 ## 🌐 Socials:
